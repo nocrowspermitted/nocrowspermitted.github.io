@@ -4,8 +4,5 @@ title: Projects
 permalink: /projects/
 ---
 
-## Project One
-Description of project one.
-
-## Project Two
-Description of project two.
+## Mail Thief
+You're a little gremlin stealing mail. Need more info? Buzz off.

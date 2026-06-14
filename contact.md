@@ -4,7 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
-You can reach me at: your-email@example.com
+You can reach me at: nocrowspermitted@gmail.com
 
-- [GitHub](https://github.com/yourusername)
-- [Twitter](https://twitter.com/yourusername)
+- [Youtube](https://www.youtube.com/@NoCrowsPermitted)
+- [Bluesky](https://bsky.app/profile/nocrowspermitted.bsky.social)
+- [Instagram](https://www.instagram.com/nocrowspermitted/)
+- [TikTok](https://www.tiktok.com/@nocrowspermitted)
