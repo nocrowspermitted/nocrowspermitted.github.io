@@ -1,0 +1,13 @@
+title: My Blog
+description: A simple blog with multiple pages
+baseurl: ""
+url: ""
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - about.md
+  - projects.md
+  - contact.md
